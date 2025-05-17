@@ -135,8 +135,11 @@ plt.show()Attach the programAttach the program
 
 ![image](https://github.com/user-attachments/assets/f8baa189-2183-4310-993c-188de87d1df8)
 
+# Hardware experiment output waveform.
+
+![image](https://github.com/user-attachments/assets/c40dc687-0197-4ba2-a617-6a01c2aa67d6)
+
+
 # Results
 
-Hence the modulation and demodulation of FSK is obtained using python.
-
-# Hardware experiment output waveform.
+Hence the modulation and demodulation of FSK is obtained using python
